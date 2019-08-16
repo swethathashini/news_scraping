@@ -1,4 +1,4 @@
-# web_scraping
+# news_scraping
 news details scraping
-news.py
+##news.py
 ------
